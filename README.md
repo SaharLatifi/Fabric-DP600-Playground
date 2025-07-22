@@ -1,4 +1,4 @@
-# Fabric-DP600-Practice
+# Fabric-DP600-Playground
 
 This repository contains my practice materials and notes while preparing for the **Microsoft DP-600: Implementing Analytics Solutions Using Microsoft Fabric** exam.
 
