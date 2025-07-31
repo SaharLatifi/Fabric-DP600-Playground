@@ -2,16 +2,12 @@
 
 This repository contains my practice materials and notes while preparing for the **Microsoft DP-600: Implementing Analytics Solutions Using Microsoft Fabric** exam.
 
-## Contents
-- SQL queries
-- Power BI reports
-- Lakehouse & Data Warehouse scripts
-- Notebooks
-- Notes & tips
+## 📘 What's Included
+- ✍️ Study notes and exam prep summaries
+- 🛠️ Hands-on labs with pipelines, notebooks, and lakehouses
+- 📊 Power BI reports and semantic model exploration
+- 🧪 Mini-projects to apply concepts in real-world scenarios
 
-## How to Sync with Fabric Workspace
-I use this repo to track my work in my Fabric workspace. To keep them in sync:
-
-
+- 💡 *This repository is a reflection of my learning journey — updated regularly as I explore.*
 
 Happy learning!
