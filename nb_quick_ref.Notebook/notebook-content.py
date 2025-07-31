@@ -69,9 +69,9 @@ sales_schema = StructType([
         StructField("SalesOrderNumber" , StringType()),
         StructField("SalesOrderLineNumber" , IntegerType()) ,
         StructField("OrderDate" , DateType()) ,
-         StructField("CustomerName" , StringType()),
+        StructField("CustomerName" , StringType()),
         StructField("EmailAddress" , StringType()),
-         StructField("Item" , StringType()) ,
+        StructField("Item" , StringType()) ,
         StructField("Quantity",IntegerType())
 ])
 
